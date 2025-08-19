@@ -1,7 +1,12 @@
 <h1 align="center">Hi 👋, I'm Sourav Singh Gandhar</h1>
 <h3 align="center">A passionate software developer and Data Analyst from India</h3>
+I'm driven by curiosity — always asking *why*, *how*, and *what next?* Whether it's understanding customer behavior, streamlining operations, or uncovering trends, I love using data to turn messy questions into meaningful insights.
 
-- 🌱 I’m currently learning **Data Analytics**
+🎓 **B.Tech in Computer Science** (Batch 2025)  
+📌 **Aspiring Data & Business Analyst**  
+🚀 **Focused on insight-driven problem solving and data storytelling**
+
+- 🌱 I’m currently learning and growing in field of **Data Analytics**
 
 - 📫 How to reach me **sourav01174@gmail.com**
 
